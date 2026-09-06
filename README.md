@@ -202,7 +202,7 @@ The app opens at `http://localhost:8501`
 ### Using the Interface
 
 1. **Model Settings** (Sidebar)
-   - Specify custom model path or use pre-trained weights
+   - Specify custom model path or use pre-trained weights and bias 
    
 2. **Visualization Controls** (Sidebar)
    - Adjust number of filters (4-32)
